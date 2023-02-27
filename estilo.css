@@ -310,11 +310,9 @@ html{
     text-align: center;
     background: #fff;
     padding: 10px 10px;
-    border-radius: 5px;
     grid-column: 1/1;
     background-color: lightgray;
     color: black;
-    border: 2px solid lightslategray;
     max-width: auto;
 
 }
